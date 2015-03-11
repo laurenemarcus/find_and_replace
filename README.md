@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-The Find and Replace App allows a user enters a string, chooses a word in that string, and provides a replacement for that word.
+The Find and Replace App allows a user to enter a string, choose a word in that string, and provide a replacement for that word.
 
 This app demonstrates usage of Ruby, BDD, and RSpec.
 
